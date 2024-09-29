@@ -1,6 +1,8 @@
 # Who-Could-Have-You-Been
 Who would you be if you were born in a random country between 1960 and 2023?
 
+To Play => https://fatih-arikan.itch.io/who-could-have-you-been
+
 This Unity project is a visualization tool that displays country populations over different years using a rotating world map UI. The player can select a year using a slider, view the global population for the chosen year, and simulate what it would be like to be born in a random country using the "WhoCouldHaveYouBeen" button. The application uses XML files to load data about countries and their respective populations, and dynamically updates the UI to display relevant information.
 
 How It Works:
