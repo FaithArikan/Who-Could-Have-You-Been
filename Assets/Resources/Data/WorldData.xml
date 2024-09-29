@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+    <data>
+        <record>
+            <field name="Year">1960</field>
+            <field name="Value">3031517384</field>
+        </record>
+        <record>
+            <field name="Year">1961</field>
+            <field name="Value">3072470012</field>
+        </record>
+        <record>
+            <field name="Year">1962</field>
+            <field name="Value">3126894230</field>
+        </record>
+        <record>
+            <field name="Year">1963</field>
+            <field name="Value">3193470069</field>
+        </record>
+        <record>
+            <field name="Year">1964</field>
+            <field name="Value">3260479625</field>
+        </record>
+        <record>
+            <field name="Year">1965</field>
+            <field name="Value">3328242834</field>
+        </record>
+        <record>
+            <field name="Year">1966</field>
+            <field name="Value">3398509802</field>
+        </record>
+        <record>
+            <field name="Year">1967</field>
+            <field name="Value">3468395137</field>
+        </record>
+        <record>
+            <field name="Year">1968</field>
+            <field name="Value">3540185668</field>
+        </record>
+        <record>
+            <field name="Year">1969</field>
+            <field name="Value">3614592846</field>
+        </record>
+        <record>
+            <field name="Year">1970</field>
+            <field name="Value">3690229198</field>
+        </record>
+        <record>
+            <field name="Year">1971</field>
+            <field name="Value">3767950635</field>
+        </record>
+        <record>
+            <field name="Year">1972</field>
+            <field name="Value">3843630361</field>
+        </record>
+        <record>
+            <field name="Year">1973</field>
+            <field name="Value">3920044841</field>
+        </record>
+        <record>
+            <field name="Year">1974</field>
+            <field name="Value">3995920225</field>
+        </record>
+        <record>
+            <field name="Year">1975</field>
+            <field name="Value">4070060140</field>
+        </record>
+        <record>
+            <field name="Year">1976</field>
+            <field name="Value">4143135434</field>
+        </record>
+        <record>
+            <field name="Year">1977</field>
+            <field name="Value">4215876682</field>
+        </record>
+        <record>
+            <field name="Year">1978</field>
+            <field name="Value">4289852068</field>
+        </record>
+        <record>
+            <field name="Year">1979</field>
+            <field name="Value">4365802882</field>
+        </record>
+        <record>
+            <field name="Year">1980</field>
+            <field name="Value">4442416674</field>
+        </record>
+        <record>
+            <field name="Year">1981</field>
+            <field name="Value">4520993169</field>
+        </record>
+        <record>
+            <field name="Year">1982</field>
+            <field name="Value">4602785312</field>
+        </record>
+        <record>
+            <field name="Year">1983</field>
+            <field name="Value">4684967631</field>
+        </record>
+        <record>
+            <field name="Year">1984</field>
+            <field name="Value">4766740755</field>
+        </record>
+        <record>
+            <field name="Year">1985</field>
+            <field name="Value">4850182355</field>
+        </record>
+        <record>
+            <field name="Year">1986</field>
+            <field name="Value">4936116651</field>
+        </record>
+        <record>
+            <field name="Year">1987</field>
+            <field name="Value">5024401475</field>
+        </record>
+        <record>
+            <field name="Year">1988</field>
+            <field name="Value">5113495865</field>
+        </record>
+        <record>
+            <field name="Year">1989</field>
+            <field name="Value">5202686551</field>
+        </record>
+        <record>
+            <field name="Year">1990</field>
+            <field name="Value">5293498452</field>
+        </record>
+        <record>
+            <field name="Year">1991</field>
+            <field name="Value">5382640911</field>
+        </record>
+        <record>
+            <field name="Year">1992</field>
+            <field name="Value">5470271607</field>
+        </record>
+        <record>
+            <field name="Year">1993</field>
+            <field name="Value">5556732311</field>
+        </record>
+        <record>
+            <field name="Year">1994</field>
+            <field name="Value">5642156981</field>
+        </record>
+        <record>
+            <field name="Year">1995</field>
+            <field name="Value">5726848893</field>
+        </record>
+        <record>
+            <field name="Year">1996</field>
+            <field name="Value">5811694918</field>
+        </record>
+        <record>
+            <field name="Year">1997</field>
+            <field name="Value">5896174827</field>
+        </record>
+        <record>
+            <field name="Year">1998</field>
+            <field name="Value">5979851049</field>
+        </record>
+        <record>
+            <field name="Year">1999</field>
+            <field name="Value">6062415429</field>
+        </record>
+        <record>
+            <field name="Year">2000</field>
+            <field name="Value">6144444748</field>
+        </record>
+        <record>
+            <field name="Year">2001</field>
+            <field name="Value">6226487141</field>
+        </record>
+        <record>
+            <field name="Year">2002</field>
+            <field name="Value">6308284566</field>
+        </record>
+        <record>
+            <field name="Year">2003</field>
+            <field name="Value">6389592840</field>
+        </record>
+        <record>
+            <field name="Year">2004</field>
+            <field name="Value">6471033757</field>
+        </record>
+        <record>
+            <field name="Year">2005</field>
+            <field name="Value">6552787172</field>
+        </record>
+        <record>
+            <field name="Year">2006</field>
+            <field name="Value">6635162568</field>
+        </record>
+        <record>
+            <field name="Year">2007</field>
+            <field name="Value">6717583637</field>
+        </record>
+        <record>
+            <field name="Year">2008</field>
+            <field name="Value">6801421733</field>
+        </record>
+        <record>
+            <field name="Year">2009</field>
+            <field name="Value">6885608628</field>
+        </record>
+        <record>
+            <field name="Year">2010</field>
+            <field name="Value">6969894715</field>
+        </record>
+        <record>
+            <field name="Year">2011</field>
+            <field name="Value">7053988749</field>
+        </record>
+        <record>
+            <field name="Year">2012</field>
+            <field name="Value">7141430933</field>
+        </record>
+        <record>
+            <field name="Year">2013</field>
+            <field name="Value">7229458453</field>
+        </record>
+        <record>
+            <field name="Year">2014</field>
+            <field name="Value">7317304568</field>
+        </record>
+        <record>
+            <field name="Year">2015</field>
+            <field name="Value">7404251118</field>
+        </record>
+        <record>
+            <field name="Year">2016</field>
+            <field name="Value">7490956237</field>
+        </record>
+        <record>
+            <field name="Year">2017</field>
+            <field name="Value">7577110140</field>
+        </record>
+        <record>
+            <field name="Year">2018</field>
+            <field name="Value">7661177849</field>
+        </record>
+        <record>
+            <field name="Year">2019</field>
+            <field name="Value">7742724795</field>
+        </record>
+        <record>
+            <field name="Year">2020</field>
+            <field name="Value">7821271846</field>
+        </record>
+        <record>
+            <field name="Year">2021</field>
+            <field name="Value">7888963821</field>
+        </record>
+        <record>
+            <field name="Year">2022</field>
+            <field name="Value">7951595433</field>
+        </record>
+        <record>
+            <field name="Year">2023</field>
+            <field name="Value">8024997028</field>
+        </record>
+
+    </data>
+</Root>
