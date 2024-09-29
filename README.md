@@ -6,18 +6,23 @@ This Unity project is a visualization tool that displays country populations ove
 How It Works:
 
 Load XML Files:
+
 The SetXmlDocument method reads and loads XML data for country populations and world data using Resources.Load<TextAsset>().
 
 Query Data:
+
 XPath queries like SelectSingleNode and SelectNodes are used to retrieve specific records for countries or years.
 
 Random Country Selection:
+
 The app randomly selects a country based on cumulative population values, using a custom NextLong() method to generate a random index.
 
 UI Updates:
+
 Text elements display selected year and country data, while tooltips and popups show the country and its population for the chosen year.
 
 Extensions:
+
 Utility functions format large numbers (1,000,000 -> 1M) and help generate random long values.
 
 /-*-\
